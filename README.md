@@ -22,8 +22,8 @@ Saya seorang Web Developer dengan minat di [pengembangan web, data science dan A
 ### 📫 Hubungi Saya:
 
 * **Email:** [dafikkece24@gmail.com]
-* **Tiktok:** [tiktok.com/@dafikkw]
-* **Instagram**.[instagram.com/dafikkw]
+* **Tiktok:** [https://tiktok.com/@dafikkw]
+* **Instagram**.[https://instagram.com/dafikkw]
 
 ---
 
