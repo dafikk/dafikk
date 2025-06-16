@@ -24,11 +24,9 @@ Saya seorang Web Developer dengan minat di **pengembangan web, data science dan 
 * **Email:** [dafikkece24@gmail.com]
 * **Tiktok:** [https://tiktok.com/@dafikkw]
 * **Instagram**.[https://instagram.com/dafikkw]
-
 ---
 
 *"The only way to learn a new programming language is by writing programs in it."* - **Dennis Ritchie**
-
 ---
 
 </div>
