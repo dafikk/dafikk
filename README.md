@@ -14,10 +14,10 @@ Saya seorang Web Developer dengan minat di [pengembangan web, data science dan A
 
 ### 🚀 Proyek Unggulan:
 
-* **[Web Porto](dafikk.vercel.app)**:
+* **[Web Porto]([<a href="dafikk.vercel.app"></a>])**:
 * Ini adalah website portofolio saya, saya membuat ini menggunakan teknologi: [HTML, TAILWIND CSS, JAVASCRIPT].
-* **[Web Kelas](xiitkj.vercel.app)**: Ini adalah projek pertama saya, meskipun begitu saya sangat senang. teknologi yang saya gunakan[HTML, CSS, TAILWIND CSS, JAVASCRIPT] 
-* **[ROK KALKULATOR](rok-kalkulator.vercel.app)**: Proyek ini bertujuan untuk memudahkan pada player dari game ROK(Rise of Kingdoms) menghitung sumber daya/resource yang mereka miliki. untuk teknologi yang digunakan[HTML, TAILWIND CSS, JAVASCRIPT]
+* **[Web Kelas]([<a href="xiitkj.vercel.app"></a>])**: Ini adalah projek pertama saya, meskipun begitu saya sangat senang. teknologi yang saya gunakan[HTML, CSS, TAILWIND CSS, JAVASCRIPT] 
+* **[ROK KALKULATOR]([<a href="rok-kalkulator.vercel.app"></a>])**: Proyek ini bertujuan untuk memudahkan pada player dari game ROK(Rise of Kingdoms) menghitung sumber daya/resource yang mereka miliki. untuk teknologi yang digunakan[HTML, TAILWIND CSS, JAVASCRIPT]
 
 ---
 
