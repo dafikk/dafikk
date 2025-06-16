@@ -23,8 +23,8 @@ Saya seorang Web Developer dengan minat di [pengembangan web, data science dan A
 
 ### 📈 Statistik GitHub Saya:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_kamu]&show_icons=true&theme=radical)](https://github.com/[username_kamu])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username_kamu]&layout=compact&theme=radical)](https://github.com/[username_kamu])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_kamu]&show_icons=true&theme=radical)](https://github.com/dafikk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[dafikk]&layout=compact&theme=radical)](https://github.com/[dafikk])
 ---
 
 ### 📫 Hubungi Saya:
