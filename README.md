@@ -12,13 +12,6 @@ Saya seorang Web Developer dengan minat di **pengembangan web, data science dan 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 ---
 
-
-### 📈 Statistik GitHub Saya:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_kamu]&show_icons=true&theme=radical)](https://github.com/dafikk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dafikk&layout=compact&theme=radical)](https://github.com/dafikk)
----
-
 ### 📫 Hubungi Saya:
 
 * **Email:** [dafikkece24@gmail.com]
