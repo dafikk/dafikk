@@ -10,7 +10,7 @@ Saya seorang Web Developer dengan minat di **pengembangan web, data science dan 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-![Vercel](https://assets.vercel.com/image/upload/v1672322055/front/vercel/dps.png)
+[![Vercel](https://vercel.com)](https://vercel.com/)
 ---
 
 ### 📫 Hubungi Saya:
