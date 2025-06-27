@@ -1,4 +1,4 @@
-# Halo, saya [Dafikk]! 👋
+# Halo, saya **Dafikk**! 👋
 
 Saya seorang Web Developer dengan minat di **pengembangan web, data science dan AI.** Saya memiliki minat **Technology** yang tinggi dan saya sangat suka belajar hal-hal baru yang berkaitan dengan **Technology**.
 
@@ -22,7 +22,7 @@ Saya seorang Web Developer dengan minat di **pengembangan web, data science dan 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-### 📫 Hubungi Saya:
+### 📫 Contact Me:
 
 * **Email:** [dafikkece24@gmail.com]
 * **Tiktok:** [https://tiktok.com/@dafikkw]
