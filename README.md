@@ -1,6 +1,6 @@
 # Halo, saya **Dafikk**! 👋
 
-Saya seorang Web Developer dengan minat di **pengembangan web, data science dan AI.** Saya memiliki minat **Technology** yang tinggi dan saya sangat suka belajar hal-hal baru yang berkaitan dengan **Technology**.
+Saya seorang Web Developer dengan minat di **pengembangan web.** Saya memiliki minat **Technology** yang tinggi dan saya sangat suka belajar hal-hal baru yang berkaitan dengan **Technology**.
 
 ---
 
