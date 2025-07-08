@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <p>
-        <img align="center" src="https://github.com/user-attachments/assets/eb1f3d66-c750-4ff1-8721-88a00776f71a" width="500">
+        <img align="center" src="https://github.com/user-attachments/assets/894dd730-032d-46c7-b01a-072d5b79c431" width="500">
     </p>
     <p>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dafikk!;+a+Frontend+Web+Developer" />
