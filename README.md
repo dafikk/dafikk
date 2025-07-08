@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <p>
-        <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+        <img align="center" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://github.com/user-attachments/assets/eb1f3d66-c750-4ff1-8721-88a00776f71a)" width="500">
     </p>
     <p>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dafikk!;+a+Frontend+Web+Developer" />
@@ -47,16 +47,12 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 🤖 GitHub Stats 🤖
 </h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dafikk/GithubStats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
-  <img src="https://raw.githubusercontent.com/dafikk/GithubStats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
-</div>
+
+
 
 <h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
-
-![](https://raw.githubusercontent.com/dafikk/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
