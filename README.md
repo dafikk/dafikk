@@ -42,11 +42,6 @@ Detail-oriented frontend developer with a strong foundation in JavaScript, HTML,
 Feel free to reach out to me if you want to discuss tech, development, or just have a chat. Let's create something amazing together! 😄
 
 ---
-<h2 align="center">
-🤖 GitHub Stats 🤖
-</h2>
-
-
 
 
 <h2 align="center">
