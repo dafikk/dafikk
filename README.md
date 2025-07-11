@@ -1,10 +1,10 @@
 <!--- # Hi, I'm Dafikk! 👋 -->
 <h1 align="center">
     <p>
-        <img align="center" src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/" width="600">
+        <img align="center" src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/" width="700">
     </p>
     <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7707EDFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dafikk!;+a+Frontend+Web+Developer" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=BB00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dafikk!;+a+Fullstack+Developer" />
     </p>
 </h1>
 
@@ -13,8 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=dafikk&style=flat-square)
 
 
-Detail-oriented frontend developer with a strong foundation in JavaScript, HTML, and CSS, specializing in creating seamless user experiences. Adept at cross-functional collaboration with UX/UI designers and backend teams to translate design mockups into functional web applications. Passionate about learning new technologies and contributing to innovative solutions.
-
+Recent graduate/Entry-level Full Stack Developer with a strong understanding of full stack development concepts. Possesses a solid foundation in JavaScript, TailwindCss, NextJs, MySql. Eager to contribute to a collaborative team environment, a quick learner, and committed to building high-quality web applications that deliver real impact.
 ### 💡 What I'm Up To
 
 - Learning and mastering Next.js, Javascript, HTML, CSS, Tailwind CSS, Git, MySql, JSON, NetBeans, Visual Studio Code, Adobe Photoshop,
