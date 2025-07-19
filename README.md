@@ -13,10 +13,10 @@
 ![](https://komarev.com/ghpvc/?username=dafikk&style=flat-square)
 
 
-Recent graduate/Entry-level Full Stack Developer with a strong understanding of full stack development concepts. Possesses a solid foundation in JavaScript, TailwindCss, NextJs, MySql. Eager to contribute to a collaborative team environment, a quick learner, and committed to building high-quality web applications that deliver real impact.
+Recent graduate/Entry-level Full Stack Developer with a strong understanding of full stack development concepts. Possesses a solid foundation in JavaScript, TailwindCss, MySql. Eager to contribute to a collaborative team environment, a quick learner, and committed to building high-quality web applications that deliver real impact.
 ### 💡 What I'm Up To
 
-- Learning and mastering Next.js, Javascript, HTML, CSS, Tailwind CSS, Git, MySql, JSON, NetBeans, Visual Studio Code, Adobe Photoshop,
+- Learning and mastering Next.js, Javascript, HTML, CSS, Tailwind CSS, Git, MySql, JSON, Visual Studio Code, Adobe Photoshop,
 <h2>
 - 🌟 Skills 🌟
 </h2>
